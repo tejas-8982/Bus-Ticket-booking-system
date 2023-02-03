@@ -13,7 +13,7 @@
 <input type="submit" value = "login">
 </form>
 <div>
-Don't have an account?<input type ="submit" value="Sign Up">
+Don't have an account?<a href=signup.jsp><input type ="submit" value="Sign Up"></a>
 </div>
 </body>
 </html>
